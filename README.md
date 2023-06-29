@@ -1,15 +1,15 @@
 # Overview
 This repository contains a JavaScript program that's meant to show my learning progress.
 
-This software is just a simple program that displays a square with some text on a web browser.
+This software is just a simple program that displays a list of temples and photos of the temples on a web browser.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CqLjG_UETSM)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools that were used were Visual Studio Code and Live Server. 
 
-{Describe the programming language that you used and any libraries.}
+The programming languages that were used were JavaScript, HTML, and CSS.
 
 # Useful Websites
 
@@ -18,8 +18,6 @@ This software is just a simple program that displays a square with some text on 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Make the display of the browser centered for a full-length browser.
+- Add more colors.
+- Add functionality for the tabs on the top.
